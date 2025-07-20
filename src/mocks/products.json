@@ -1,0 +1,125 @@
+[
+  {
+    "id": "1",
+    "name": "Laptop Pro X1",
+    "brand": "TechBrand",
+    "image": "https://placehold.co/300x200/E0E7FF/3F51B5?text=Laptop+Pro+X1",
+    "price": 1299.99,
+    "features": [
+      "14-inch OLED Display",
+      "Intel Core i7 Processor",
+      "16GB RAM",
+      "512GB SSD Storage",
+      "10-hour Battery Life",
+      "Windows 11 Home",
+      "USB-C x2, USB-A x1"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Smartphone Ultra 5G",
+    "brand": "MobileCo",
+    "image": "https://placehold.co/300x200/D1FAE5/065F46?text=Smartphone+Ultra+5G",
+    "price": 899.0,
+    "features": [
+      "6.7-inch AMOLED Display",
+      "Snapdragon 8 Gen 2",
+      "8GB RAM",
+      "256GB Storage",
+      "4500mAh Battery",
+      "Android 14",
+      "5G Connectivity"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Smartwatch Fit",
+    "brand": "WearTech",
+    "image": "https://placehold.co/300x200/FFE4E6/BE185D?text=Smartwatch+Fit",
+    "price": 199.5,
+    "features": [
+      "1.5-inch Retina Display",
+      "Heart Rate Monitor",
+      "GPS Tracking",
+      "7-day Battery Life",
+      "Water Resistant (5ATM)",
+      "Bluetooth 5.0"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Wireless Headphones XP",
+    "brand": "AudioPro",
+    "image": "https://placehold.co/300x200/F0F9FF/0B69B1?text=Headphones+XP",
+    "price": 249.0,
+    "features": [
+      "Over-ear Design",
+      "Active Noise Cancellation",
+      "30-hour Battery Life",
+      "Bluetooth 5.2",
+      "USB-C Charging",
+      "Foldable Design"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Tablet Slim 10",
+    "brand": "ViewTab",
+    "image": "https://placehold.co/300x200/FFF7ED/C2410C?text=Tablet+Slim+10",
+    "price": 499.99,
+    "features": [
+      "10.2-inch IPS Display",
+      "Octa-core Processor",
+      "6GB RAM",
+      "128GB Storage",
+      "8-hour Battery Life",
+      "Android 13",
+      "Stylus Support"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Gaming Monitor 27",
+    "brand": "GameView",
+    "image": "https://placehold.co/300x200/ECFDF5/059669?text=Gaming+Monitor+27",
+    "price": 399.0,
+    "features": [
+      "27-inch QHD Display",
+      "144Hz Refresh Rate",
+      "1ms Response Time",
+      "IPS Panel",
+      "HDR Support",
+      "HDMI 2.0, DisplayPort 1.4"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "E-Reader PageFlip",
+    "brand": "BookLite",
+    "image": "https://placehold.co/300x200/F0FDF4/15803D?text=E-Reader+PageFlip",
+    "price": 129.99,
+    "features": [
+      "6-inch E-Ink Display",
+      "Adjustable Front Light",
+      "8GB Storage",
+      "Weeks of Battery Life",
+      "Wi-Fi Connectivity",
+      "Lightweight Design"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Smart Speaker Echo",
+    "brand": "SoundHub",
+    "image": "https://placehold.co/300x200/FEF2F2/EF4444?text=Smart+Speaker+Echo",
+    "price": 79.99,
+    "features": [
+      "Voice Assistant Built-in",
+      "360-degree Audio",
+      "Wi-Fi & Bluetooth",
+      "Smart Home Hub",
+      "Compact Design",
+      "Mute Button"
+    ]
+  }
+]
